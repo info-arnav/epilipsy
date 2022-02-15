@@ -22,6 +22,10 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+### QR Code
+
+![QR Code for Frontend](/qrcode.svg)
+
 ## Server
 
 This is a [Node.js](https://nodejs.org/) project.
@@ -33,3 +37,6 @@ First, run the development server:
 ```bash
 npm run dev
 ```
+### QR Code
+
+![QR Code for Frontend](/qrcode-server.svg)
