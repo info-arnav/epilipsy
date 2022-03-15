@@ -40,3 +40,7 @@ npm run dev
 ### QR Code
 
 ![QR Code for Frontend](/qrcode-server.svg)
+
+### Execution via BAT file
+
+First install node JS from here - https://nodejs.org/ 
